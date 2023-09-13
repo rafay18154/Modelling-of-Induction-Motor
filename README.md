@@ -1,1 +1,1 @@
-# Modelling-of-Induction-Motor
+# Mathametical Modelling-of-Induction-Motor
